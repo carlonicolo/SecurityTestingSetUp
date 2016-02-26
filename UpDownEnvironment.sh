@@ -1,3 +1,5 @@
+#Author: Carlo Nicolò aka Karlitos
+
 function press_enter
 {
     echo ""

@@ -1,3 +1,4 @@
+#Author: Carlo Nicolò aka Karlitos
 #Script to setup the Security Testing environment
 
 #Setting the user
