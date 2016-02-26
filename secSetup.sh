@@ -19,7 +19,11 @@ cd SecurityTestingTools
 
 #Download apache Tomcat and rename it in apache7
 echo 'Downloading Apache Tomcat'
-curl -o apache-tomcat7.tar.gz apache.fastbull.org/tomcat/tomcat-7/v7.0.59/bin/apache-tomcat-7.0.59.tar.gz 
+#old link
+#curl -o apache-tomcat7.tar.gz apache.fastbull.org/tomcat/tomcat-7/v7.0.59/bin/apache-tomcat-7.0.59.tar.gz
+
+#New link
+curl -o apache-tomcat7.tar.gz apache.fastbull.org/tomcat/tomcat-7/v7.0.68/bin/apache-tomcat-7.0.68.tar.gz
 
 #Extract 
 tar -xzvpf apache-tomcat7.tar.gz
